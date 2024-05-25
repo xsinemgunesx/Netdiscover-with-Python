@@ -1,2 +1,3 @@
 # Netdiscover-with-Python
-![image](https://github.com/xsinemgunesx/Netdiscover-with-Python/assets/104680332/559f11c4-0abb-43a4-a413-2c95e1539d11)
+
+![net](https://github.com/xsinemgunesx/Netdiscover-with-Python/assets/104680332/3a67ef67-4797-49d4-a6b5-eb45627b42db)
